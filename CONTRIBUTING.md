@@ -1,0 +1,3 @@
+Most public git projects have a set of [**Contribution Guidelines**](https://github.blog/2012-09-17-contributing-guidelines/) which give potential collaborators a set of rules and/or a checklist of items to consider before submitting a pull request, reporting an issue, etc. Be considerate of others' preferences and time by looking for and following these guidelines.
+
+As for [this repository](https://github.com/eieioxyz/Dotfiles-Show-and-Tell/), please follow the instructions listed in [README.md](README.md) and in [ROLL-CALL.md](ROLL-CALL.md) to add your Dotfiles repo to the list. Feel free to add your repo whether or not you are [taking the course](http://dotfiles.eieio.xyz/ "Dotfiles from Start to Finish-ish").
