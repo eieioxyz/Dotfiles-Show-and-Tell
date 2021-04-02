@@ -8,3 +8,4 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
 
+- [Patrick McDonald](https://github.com/WhatsThatItsPat/dotfiles): I'm a full stack mobile dev and enjoy using Firebase, RxJS, Angular, and Ionic. And more recently, I'm a course creator.
