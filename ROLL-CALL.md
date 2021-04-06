@@ -8,8 +8,5 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
 
-# Use this markdown as a template:
-
 - [Sebastian Velasco](https://github.com/sebasvelasco353/.dotfiles): I'm a Front End developer that uses Vue, Firebase, arduino and other libraries, frameworks and tech stacks for both personal and profesional projects.
-
 - [Patrick McDonald](https://github.com/WhatsThatItsPat/dotfiles): I'm a full stack mobile dev and enjoy using Firebase, RxJS, Angular, and Ionic. And more recently, I'm a course creator.
