@@ -8,6 +8,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
 
+- [Steven Dubois](https://github.com/duboiss/dotfiles): A back-end developer which mainly plays with PHP, Symfony and Vue.js. I love automations and improve my work flow, hence my dotfiles repo.
 - [Catalin Ciubotaru](https://github.com/FunnyGhost/dotfiles): I'm a Front End developer at SnappCar. I mainly use Angular but I'm always curious about other stuff and try to learn as much as possible. I also enjoy drawing, dogs, movies, books and all that. 
 - [Sebastian Velasco](https://github.com/sebasvelasco353/.dotfiles): I'm a Front End developer that uses Vue, Firebase, arduino and other libraries, frameworks and tech stacks for both personal and profesional projects.
 - [Patrick McDonald](https://github.com/WhatsThatItsPat/dotfiles): I'm a full stack mobile dev and enjoy using Firebase, RxJS, Angular, and Ionic. And more recently, I'm a course creator.
