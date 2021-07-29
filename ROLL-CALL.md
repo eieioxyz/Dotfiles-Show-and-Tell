@@ -8,6 +8,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
 
+- [Victor Mattos](https://github.com/vicmattos/dotfiles_macos): I'm a data engineer with a full-stack developer background and use python for everything. I love to create systems that make everyone's job easier and quicker.
 - [Simon Ward](https://github.com/simonward87/dotfiles): Full-stack web dev from London; Using React/Svelte, TypeScript, Node, and many of the surrounding technologies. Spent the last few months studying for the Kubernetes CKAD. I love design, outdoor cooking, swimming, and learning.
 - [Henrique Curzio Ladeira](https://github.com/henrique-c-ladeira/dotfiles-ubuntu): I'm a fullstack web and mobile dev. Mainly use typescript/javascript but I am fond of always learning new technologies and to improve my efficiency by working smarter not harder.
 - [Steven Dubois](https://github.com/duboiss/dotfiles): A back-end developer which mainly plays with PHP, Symfony and Vue.js. I love automations and improve my work flow, hence my dotfiles repo.
