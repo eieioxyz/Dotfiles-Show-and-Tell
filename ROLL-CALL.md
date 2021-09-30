@@ -8,6 +8,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
 
+- [Elise N](https://github.com/elisencode/dotfiles): [Sep 29 2021] Hi! I will overcome difficulties and acheive my goal (un projet, c'est une date). Thank you for Instructor Udemy: Mr. Patrick McDonald ! :- ) :heart:
 - [Philip Krück](https://github.com/philipkrck/dotfiles): I'm a software engineer focused on mobile and interested in blockchain and smart contract development. I enjoy learning about new technologies and Computer Science.
 - [Javier Zavaleta](https://github.com/JavaZava/dotfiles): I'm a Technical Leader focused in web projects but who has worked in mobile as well. I love learning technologies and techniques that can be translated into making my team's life easier and removing roadblocks.
 - [Victor Mattos](https://github.com/vicmattos/dotfiles_macos): I'm a data engineer with a full-stack developer background and use python for everything. I love to create systems that make everyone's job easier and quicker.
