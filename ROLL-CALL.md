@@ -8,6 +8,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
 
+- [Anguram Shan](https://github.com/anguramshan/dotfiles): I'm a Front End developer. It's obvious my work is to do `beep beep bop` with 👩‍💻.
 - [Elise N](https://github.com/elisencode/dotfiles): [Sep 29 2021] Hi! I will overcome difficulties and acheive my goal (un projet, c'est une date). Thank you for Instructor Udemy: Mr. Patrick McDonald ! :- ) :heart:
 - [Philip Krück](https://github.com/philipkrck/dotfiles): I'm a software engineer focused on mobile and interested in blockchain and smart contract development. I enjoy learning about new technologies and Computer Science.
 - [Javier Zavaleta](https://github.com/JavaZava/dotfiles): I'm a Technical Leader focused in web projects but who has worked in mobile as well. I love learning technologies and techniques that can be translated into making my team's life easier and removing roadblocks.
@@ -18,4 +19,3 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 - [Catalin Ciubotaru](https://github.com/FunnyGhost/dotfiles): I'm a Front End developer at SnappCar. I mainly use Angular but I'm always curious about other stuff and try to learn as much as possible. I also enjoy drawing, dogs, movies, books and all that. 
 - [Sebastian Velasco](https://github.com/sebasvelasco353/.dotfiles): I'm a Front End developer that uses Vue, Firebase, arduino and other libraries, frameworks and tech stacks for both personal and profesional projects.
 - [Patrick McDonald](https://github.com/WhatsThatItsPat/dotfiles): I'm a full stack mobile dev and enjoy using Firebase, RxJS, Angular, and Ionic. And more recently, I'm a course creator.
-- [Anguram Shan](https://github.com/anguramshan/dotfiles): I'm a Front End developer. It's obvious my work is to do `beep beep bop` with 👩‍💻.
