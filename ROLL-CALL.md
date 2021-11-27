@@ -8,6 +8,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
 
+- [Moath Alhajri](https://github.com/DevMoath/dotfiles): I'm software developer obsessed with solving problems mostly with web techs such as PHP and JS, playing games or learning new things in my free time.
 - [Anguram Shan](https://github.com/anguramshan/dotfiles): I'm a Front End developer. It's obvious my work is to do `beep beep bop` with 👩‍💻.
 - [Elise N](https://github.com/elisencode/dotfiles): [Sep 29 2021] Hi! I will overcome difficulties and acheive my goal (un projet, c'est une date). Thank you for Instructor Udemy: Mr. Patrick McDonald ! :- ) :heart:
 - [Philip Krück](https://github.com/philipkrck/dotfiles): I'm a software engineer focused on mobile and interested in blockchain and smart contract development. I enjoy learning about new technologies and Computer Science.
