@@ -7,9 +7,9 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 ```
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
+- [Chandler Bi](https://github.com/fb1n15/dotfiles_macos): I am a computer science student.
 - [Darren Gussin](https://github.com/dgussin/dotfiles): I'm a back-end developer working with dotnet, C#, azure, docker and kubernetes.
 - [Himanshu Godara](https://github.com/HimanshuGodara/dotfiles_macos): I'm a designer starting to get into software development, currently working with front-end only but who knows where I might move to in future 🤷‍♂️
-
 - [Moath Alhajri](https://github.com/DevMoath/dotfiles): I'm software developer obsessed with solving problems mostly with web techs such as PHP and JS, playing games or learning new things in my free time.
 - [Anguram Shan](https://github.com/anguramshan/dotfiles): I'm a Front End developer. It's obvious my work is to do `beep beep bop` with 👩‍💻.
 - [Elise N](https://github.com/elisencode/dotfiles): [Sep 29 2021] Hi! I will overcome difficulties and acheive my goal (un projet, c'est une date). Thank you for Instructor Udemy: Mr. Patrick McDonald ! :- ) :heart:
