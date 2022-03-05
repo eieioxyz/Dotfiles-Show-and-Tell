@@ -7,6 +7,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 ```
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
+- [Andy Nadal](https://github.com/andynadal/.dotfiles.git): I'm an entrepreneur, iOS and Web developer; I love to use UIKit, SwiftUI, CoreData, Next.js, Express and GraphQL; my current setup are two Mac laptops, one of which is an M1, and the other an Intel chip, so syncing them has been a nightmare, I took this course to streamline this flow.
 - [Chandler Bi](https://github.com/fb1n15/dotfiles_macos): I am a computer science student.
 - [Darren Gussin](https://github.com/dgussin/dotfiles): I'm a back-end developer working with dotnet, C#, azure, docker and kubernetes.
 - [Himanshu Godara](https://github.com/HimanshuGodara/dotfiles_macos): I'm a designer starting to get into software development, currently working with front-end only but who knows where I might move to in future 🤷‍♂️
