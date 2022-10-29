@@ -8,6 +8,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
 - [Alonso Huerta](https://github.com/alonso284/.dotfiles): Just an average college student 🐒
+- [timmac62](https://github.com/timmac62/dotfiles_macos): I'm a software developer learning about dotfiles. I enjoy learning new things and playing guitar.
 - [Jordan Belmont](https://github.com/JordanBelmont/dotfiles): I'm a front-end developer, illustrator, pixel artist and copywriter... I have too much time on my hands. 
 - [Samuel Jensen](https://github.com/nichtsam/dotfiles): I am self-taught developer started out from frontend, just trying to become a better engineer.
 - [Grich S Hiran](https://github.com/GrichSHiran/dotfiles): I am an aspiring data scientist looking to learn more about CLI tools and streamlining my development environment. I want to create an automated system which I can for transforming and archiving personal data and miscellaneuous writing I collect as well as a set up that helps to set me up for successful creative outbursts when I'm developing projects.
