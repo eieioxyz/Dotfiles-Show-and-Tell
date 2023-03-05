@@ -7,6 +7,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 ```
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
+- [Philipp Soldunov](https://github.com/psoldunov/.dotfiles): Web developer looking to improve my dotfiles game.
 - [emkjee](https://github.com/emkjee/dotfiles): Started as a legacy application developer, now I am an IT manager.
 - [Danny Pellegrini](https://github.com/dmpellegrini/dotfiles): Former Audio Engineer, aspiring Software Engineer.
 - [Van Stokes](https://github.com/vstokes/dotfiles.mac): Semi professional ADHD tamer.  When taming ADHD, you kind of try to learn all the things...kindof.
