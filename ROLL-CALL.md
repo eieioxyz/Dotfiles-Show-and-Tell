@@ -7,6 +7,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 ```
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
+- [Luis F García](https://github.com/trainning-lab/dotfile): I am Software Engineer, Software Architect, Mentoring in the best practices to build software and Software analysis & design, too.
 - [Chris Nowicki](https://github.com/chris-nowicki/dotfiles): Full-Stack Developer learning about dotfiles and how to automate my macOS setup when loading new OS or onto a new machine.
 - [Philipp Soldunov](https://github.com/psoldunov/.dotfiles): Web developer looking to improve my dotfiles game.
 - [emkjee](https://github.com/emkjee/dotfiles): Started as a legacy application developer, now I am an IT manager.
