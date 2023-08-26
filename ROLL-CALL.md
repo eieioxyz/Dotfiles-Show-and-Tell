@@ -7,6 +7,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 ```
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
+- [Theweak1](https://github.com/theweak1/dotfiles): I'm a computer engineer and I tend to work on backend project with my friends, currently I am a manufacture technician. The techstack that I mostly use is NodeJS, Express, React, and for database in personal I prefer to use MongoDB. here is a link to my site [lenier.ortiz](https://lenier-ortiz.vercel.app/).
 - [Luis F García](https://github.com/trainning-lab/dotfiles): I am Software Engineer, Software Architect, Mentoring in the best practices to build software and Software analysis & design, too.
 - [nVINCEble](https://github.com/nVINCEble/dotfiles_macos): A Technology Consultant who enjoys learning new technologies and ways to streamline every day tasks.
 - [Chris Nowicki](https://github.com/chris-nowicki/dotfiles): Full-Stack Developer learning about dotfiles and how to automate my macOS setup when loading new OS or onto a new machine.
