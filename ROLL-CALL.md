@@ -7,6 +7,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 ```
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
+- [Zsolt Kebel](https://github.com/zsoltkebel/dotfiles): Hey, I'm a software developer looking to expand my tech stack. I enjoy working on [AtRoom](https://github.com/zsoltkebel/atroom-website) which is an indoor navigation website.
 - [Theweak1](https://github.com/theweak1/dotfiles): I'm a computer engineer and I tend to work on backend project with my friends, currently I am a manufacture technician. The techstack that I mostly use is NodeJS, Express, React, and for database in personal I prefer to use MongoDB. here is a link to my site [lenier.ortiz](https://lenier-ortiz.vercel.app/).
 - [Luis F García](https://github.com/trainning-lab/dotfiles): I am Software Engineer, Software Architect, Mentoring in the best practices to build software and Software analysis & design, too.
 - [nVINCEble](https://github.com/nVINCEble/dotfiles_macos): A Technology Consultant who enjoys learning new technologies and ways to streamline every day tasks.
@@ -38,4 +39,3 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 - [Catalin Ciubotaru](https://github.com/FunnyGhost/dotfiles): I'm a Front End developer at SnappCar. I mainly use Angular but I'm always curious about other stuff and try to learn as much as possible. I also enjoy drawing, dogs, movies, books and all that. 
 - [Sebastian Velasco](https://github.com/sebasvelasco353/.dotfiles): I'm a Front End developer that uses Vue, Firebase, arduino and other libraries, frameworks and tech stacks for both personal and profesional projects.
 - [Patrick McDonald](https://github.com/WhatsThatItsPat/dotfiles): I'm a full stack mobile dev and enjoy using Firebase, RxJS, Angular, and Ionic. And more recently, I'm a course creator.
-- [Zsolt Kebel](https://github.com/zsoltkebel/dotfiles): Hey, I'm a software developer looking to expand my tech stack. I enjoy working on [AtRoom](https://github.com/zsoltkebel/atroom-website) which is an indoor navigation website.
