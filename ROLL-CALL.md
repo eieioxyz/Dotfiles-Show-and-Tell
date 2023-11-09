@@ -7,6 +7,7 @@ Add your [Dotfiles repo](https://github.com/eieioxyz/dotfiles_macos) to the list
 ```
 
 # Roll Call for [*Dotfiles from Start to Finish-ish*](http://dotfiles.eieio.xyz/)
+- [Fabio Pacheco](https://github.com/Fcpacheco/dotfiles.git): Hi, I'm from Brazil and work in the finance world. Right now I'm learning Python for Quantitative Finance.
 - [Edouard Misset](https://github.com/edouardmisset/dotfiles): Hi 👋, I'm a fullstack software developper. I use TS as my daily language of choice with different runtime (deno, bun) and frameworks (express, React, etc.). I'm based in Lyon, France. 🧗🧗🧗
 - [Zsolt Kebel](https://github.com/zsoltkebel/dotfiles): Hey, I'm a software developer looking to expand my tech stack. I enjoy working on [AtRoom](https://github.com/zsoltkebel/atroom-website) which is an indoor navigation website.
 - [Theweak1](https://github.com/theweak1/dotfiles): I'm a computer engineer and I tend to work on backend project with my friends, currently I am a manufacture technician. The techstack that I mostly use is NodeJS, Express, React, and for database in personal I prefer to use MongoDB. here is a link to my site [lenier.ortiz](https://lenier-ortiz.vercel.app/).
